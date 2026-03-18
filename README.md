@@ -12,7 +12,7 @@ Frontend Developer
 
 ### Languages :
 
-<div align="center">
+<div align="start">
 
 |                           |
 | ------------------------- |
@@ -23,7 +23,7 @@ Frontend Developer
 
 ### Stack
 
-<div align="center">
+<div align="start">
 
 <table>
   <tr>
