@@ -12,66 +12,73 @@ Frontend Developer
 
 ### Languages :
 
-<div align="start">
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        🇺🇦 Ukrainian - Native
+        
+  </tr>
 
-|                           |
-| ------------------------- |
-| 🇺🇦 Ukrainian - Native     |
-| 🇬🇧 English - Intermediate |
-
+  <tr>
+    
+        🇬🇧 English - Intermediate
+        
+  </tr>
+</table>
 </div>
 
 ### Stack
 
-<div align="start">
-
-<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
   <tr>
-    <td align="center" width="88">
-      <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
+     <td align="center"  width="88">
+         <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
       <br>HTML5
     </td>
     <td align="center" width="88">
-      <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
+        <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
       <br>CSS3
     </td>
-    <td align="center" width="88">
-      <img src="./images/03-javascript.svg" alt="JavaScript" width="44" height="44"/>
+<td align="center" width="88">
+         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
       <br>JavaScript
     </td>
     <td align="center" width="88">
-      <img src="./images/04-typescript.svg" alt="TypeScript" width="44" height="44"/>
+        <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
       <br>TypeScript
     </td>
     <td align="center" width="88">
-      <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
-      <br>React
+        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
+      <br>React.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="88">
-      <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
+        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
       <br>Next.js
     </td>
     <td align="center" width="88">
-      <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
+      <br>Node.js
+    </td>
+    </tr>
+    <td align="center" width="88">
+        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
       <br>Sass
     </td>
-    <td align="center" width="88">
-      <img src="./images/11-bem.svg" alt="BEM" width="44" height="44"/>
+    <td align="center" width="88"> 
+        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
       <br>BEM
     </td>
-    <td align="center" width="88">
-      <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+    <td align="center"  width="88">
+        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
       <br>Tailwind
     </td>
     <td align="center" width="88">
-      <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
+        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
       <br>Redux
     </td>
-  </tr>
 </table>
-
 </div>
 
 ### GitHub Stats :
